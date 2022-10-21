@@ -1,0 +1,16 @@
+{
+"name": "texas90s",
+"theme": "texas90s",
+"version": "1.2.6",
+"description": "texas90s สมัครสมาชิกเว็บไซต์คาสิโนเว็บตรง สมาชิกเยอะ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"texas90s",
+"texas90s เครดิตฟรี",
+"texas90s ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/texas90s",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
